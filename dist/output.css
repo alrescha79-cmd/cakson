@@ -658,10 +658,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 3rem;
 }
 
-.ml-3 {
-  margin-left: 0.75rem;
-}
-
 .mt-3 {
   margin-top: 0.75rem;
 }
@@ -1818,6 +1814,22 @@ body {
 
   .lg\:mt-20 {
     margin-top: 5rem;
+  }
+
+  .lg\:mt-8 {
+    margin-top: 2rem;
+  }
+
+  .lg\:mt-12 {
+    margin-top: 3rem;
+  }
+
+  .lg\:mt-2 {
+    margin-top: 0.5rem;
+  }
+
+  .lg\:mt-28 {
+    margin-top: 7rem;
   }
 
   .lg\:block {
